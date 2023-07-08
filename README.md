@@ -1,2 +1,2 @@
-# dongari
+# school
 dongari repository
